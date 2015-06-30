@@ -1,0 +1,13 @@
+{
+    "intents": [
+        {
+            "intent": "StartGame",
+            "slots": [
+                {
+                    "name": "StartNumber",
+                    "type": "NUMBER"
+                }
+            ]
+        }
+    ]
+}

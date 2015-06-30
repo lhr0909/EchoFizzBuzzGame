@@ -1,0 +1,4 @@
+StartGame start a game from number {one|StartNumber}
+StartGame start a game from {twenty six|StartNumber}
+StartGame play a game starting from {eleven|StartNumber}
+StartGame play a game and start from {forty three|StartNumber}
