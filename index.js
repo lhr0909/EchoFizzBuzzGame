@@ -170,7 +170,7 @@ function createRuleText(startNumber) {
            + ". Then the next person says the next number " + (parseInt(startNumber) + 1)
            + ", and so on. But if the number is a multiple of 7, such as 14 and 21, or contains 7, such as 27 and 47, you have to say the word buzz. "
            + "Choose your favorite form of penalty for the person who misses the game rules! "
-           + "Everyone ready to play the game? Just start by saying " + startNumber;
+           + "Everyone ready to play the game yet?";
 }
 
 function createNextNumberAttributes(nextNumber) {

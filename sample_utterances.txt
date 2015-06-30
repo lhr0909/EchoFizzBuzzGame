@@ -4,7 +4,7 @@ StartGameIntent play a game starting from {eleven|StartNumber}
 StartGameIntent play a game and start from {forty three|StartNumber}
 
 NumberEnterIntent the next number is {one|NextNumber}
-NumberEnterIntent next number is {two|NextNumber}
+NumberEnterIntent next number is {twenty two|NextNumber}
 NumberEnterIntent next is {three|NextNumber}
 NumberEnterIntent next {thirty six|NextNumber}
 
