@@ -1,4 +1,36 @@
-StartGame start a game from number {one|StartNumber}
-StartGame start a game from {twenty six|StartNumber}
-StartGame play a game starting from {eleven|StartNumber}
-StartGame play a game and start from {forty three|StartNumber}
+StartGameIntent start a game from number {one|StartNumber}
+StartGameIntent start a game from {twenty six|StartNumber}
+StartGameIntent play a game starting from {eleven|StartNumber}
+StartGameIntent play a game and start from {forty three|StartNumber}
+
+NumberEnterIntent the next number is {one|NextNumber}
+NumberEnterIntent next number is {two|NextNumber}
+NumberEnterIntent next is {three|NextNumber}
+NumberEnterIntent next {thirty six|NextNumber}
+
+BuzzIntent buzz
+BuzzIntent the next number is buzz
+BuzzIntent next number is buzz
+BuzzIntent next is buzz
+BuzzIntent next buzz
+BuzzIntent it's buzz
+BuzzIntent it is buzz
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent how does this work
+HelpIntent how does this game work
+HelpIntent how do I play this game
+HelpIntent how do I play the game
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me

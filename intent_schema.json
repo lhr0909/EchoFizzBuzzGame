@@ -1,13 +1,30 @@
 {
     "intents": [
         {
-            "intent": "StartGame",
+            "intent": "StartGameIntent",
             "slots": [
                 {
                     "name": "StartNumber",
                     "type": "NUMBER"
                 }
             ]
+        },
+        {
+            "intent": "NumberEnterIntent",
+            "slots": [
+                {
+                    "name": "NextNumber",
+                    "type": "NUMBER"
+                }
+            ]
+        },
+        {
+            "intent": "BuzzIntent",
+            "slots": []
+        },
+        {
+            "intent": "HelpIntent",
+            "slots": []
         }
     ]
 }
