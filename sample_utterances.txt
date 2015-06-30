@@ -16,6 +16,14 @@ BuzzIntent next buzz
 BuzzIntent it's buzz
 BuzzIntent it is buzz
 
+BuzzIntent bus
+BuzzIntent the next number is bus
+BuzzIntent next number is bus
+BuzzIntent next is bus
+BuzzIntent next bus
+BuzzIntent it's bus
+BuzzIntent it is bus
+
 HelpIntent help
 HelpIntent help me
 HelpIntent what can I ask you
